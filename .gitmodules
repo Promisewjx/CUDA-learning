@@ -1,3 +1,6 @@
 [submodule "cuda-reduce"]
 	path = cuda-reduce
 	url = https://github.com/Promisewjx/cuda-reduce.git
+[submodule "cuda-scan"]
+	path = cuda-scan
+	url = https://github.com/Promisewjx/cuda-scan.git
