@@ -4,3 +4,6 @@
 [submodule "cuda-scan"]
 	path = cuda-scan
 	url = https://github.com/Promisewjx/cuda-scan.git
+[submodule "cuda-gemm"]
+	path = cuda-gemm
+	url = https://github.com/Promisewjx/cuda-gemm.git
