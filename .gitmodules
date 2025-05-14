@@ -1,0 +1,3 @@
+[submodule "cuda-reduce"]
+	path = cuda-reduce
+	url = https://github.com/Promisewjx/cuda-reduce.git
